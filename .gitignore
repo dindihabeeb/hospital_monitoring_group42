@@ -1,5 +1,6 @@
 #ignore any file that ends with .zip
 *.zip
 
-ignore any file that ends with .txt
+#ignore any file that ends with .txt
 *.txt
+
