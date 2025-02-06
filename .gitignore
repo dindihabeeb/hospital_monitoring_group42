@@ -4,3 +4,5 @@
 #ignore any file that ends with .txt
 *.txt
 
+#ignore generated archive logs
+*.txt*
