@@ -100,11 +100,5 @@ Example:
 2024-10-03 14:35:04 Monitor_A 48
 ```
 
-## Security Considerations
-- All scripts implement proper error handling
-- Secure file permissions are maintained
-- SSH/SCP is used for secure remote backup
-- Sensitive data is handled appropriately
-
 ## Conclusion
 This is an assignment project for ALU BSE Year 1 Trimester 2.
