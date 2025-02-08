@@ -1,2 +1,2 @@
 #!/bin/bash
-zip heart_rate_log.txt$(date '+%Y%m%d_%H%M%S') heart_rate_log.txt
+cp heart_rate_log.txt heart_rate_log.txt_$(date '+%Y%m%d_%H%M%S')
