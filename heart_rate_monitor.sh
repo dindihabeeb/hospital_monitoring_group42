@@ -1,4 +1,4 @@
-i#!/bin/bash
+#!/bin/bash
 
 #read -p this command prompts the user for input with a message and stores the input variable
 read -p "what devide do you want to use? " DEVICE
